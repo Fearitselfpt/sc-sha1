@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583747392 source:d:\university\security and cryptography\project1\sha1\main.cpp
+	"sha1.h"
+	<string.h>
+	<stdio.h>
+
+1583747816 d:\university\security and cryptography\project1\sha1\sha1.h
+
